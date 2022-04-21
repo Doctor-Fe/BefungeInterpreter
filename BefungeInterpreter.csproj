@@ -6,6 +6,8 @@
     <ImplicitUsings>disable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <Authors>Doctor Fe</Authors>
+    <RootNamespace>DoctorFe.Executable</RootNamespace>
+    <StartupObject>DoctorFe.Executable.BefungeInterpreter</StartupObject>
   </PropertyGroup>
 
 </Project>
